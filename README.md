@@ -25,7 +25,7 @@ An elegant prayer times application that helps Muslims track daily prayer times 
 
 | Tech              | Usage                          |
 |-------------------|--------------------------------|
-| **React**         | Frontend framework             |
+| **React + Vite**         | Frontend framework             |
 | **Material UI**   | UI components and styling      |
 | **Moment.js**     | Date/time calculations         |
 | **Axios**         | API requests                   |
