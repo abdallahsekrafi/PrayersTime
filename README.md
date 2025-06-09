@@ -128,6 +128,12 @@ npm run mob
 
 ---
 
+## 🙏 Thanks for the two references
+
+- **MAWAQIT**: [mawaqit.net](https://mawaqit.net/)
+- **TARMEEZ**: [tarmeez](https://www.youtube.com/@tarmeez)
+---
+
 ## 📬 Contact
 
 - **LinkedIn**: [Abdallah Sekrafi](https://www.linkedin.com/in/abdallah-sekrafi-47232889/)
@@ -135,7 +141,6 @@ npm run mob
 - **GitHub**: [github.com/abdallahsekrafi](https://github.com/abdallahsekrafi)
 
 ---
-
 ## © Sekrafi Abdallah @ 2025
 
 This project is licensed under the MIT License.
